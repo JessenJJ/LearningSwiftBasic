@@ -24,6 +24,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5B7DA70E2BE5F45000D48F06 /* SwiftClosurePlayground.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = SwiftClosurePlayground.md; sourceTree = "<group>"; };
+		5B7DA70F2BE5F4E400D48F06 /* IntroToSwiftPlayground.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = IntroToSwiftPlayground.md; sourceTree = "<group>"; };
+		5B7DA7102BE5F50F00D48F06 /* SwiftProtocol.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = SwiftProtocol.md; sourceTree = "<group>"; };
 		5BE5411F2BBF99FA00E3BE35 /* LearningSwiftBasic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningSwiftBasic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BE541222BBF99FA00E3BE35 /* LearningSwiftBasicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningSwiftBasicApp.swift; sourceTree = "<group>"; };
 		5BE541242BBF99FA00E3BE35 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -110,6 +113,9 @@
 				5BE541462BBFD75600E3BE35 /* SegmentedControlView.swift */,
 				5BE541482BBFD9C300E3BE35 /* SwiftUILink.swift */,
 				5BE5414A2BBFDC3500E3BE35 /* WebView.swift */,
+				5B7DA70E2BE5F45000D48F06 /* SwiftClosurePlayground.md */,
+				5B7DA70F2BE5F4E400D48F06 /* IntroToSwiftPlayground.md */,
+				5B7DA7102BE5F50F00D48F06 /* SwiftProtocol.md */,
 			);
 			path = View;
 			sourceTree = "<group>";
